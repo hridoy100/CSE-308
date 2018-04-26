@@ -2,3 +2,5 @@ hi git!
 
 hello again
 feature 1 added
+I have changed something for checking.
+wooo hooo it works with git diff
